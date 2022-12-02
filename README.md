@@ -1,7 +1,7 @@
 ## Prerequisite
 
-Install LLVM-VE-RV-1.8.0 from
-https://sx-aurora.com/repos/llvm/x86_64/llvm-ve-rv-1.8.0-1.8.0-1.x86_64.rpm
+Install LLVM-VE-RV-2.2.0 from
+https://sx-aurora.com/repos/llvm/x86_64/llvm-ve-rv-2.2.0-2.2.0-1.x86_64.rpm
 
 
 Set environment for LLVM-VE-RV
